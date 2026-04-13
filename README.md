@@ -11,6 +11,7 @@ Permite a los usuarios:
 - Recibir un correo de confirmación  
 
 La arquitectura sigue un enfoque **orientado a eventos y basado en microservicios**.
+
 URL : http://frontend-orders-uo289627.s3-website.eu-north-1.amazonaws.com/
 ---
 
